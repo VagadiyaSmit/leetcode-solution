@@ -7,6 +7,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -16,4 +17,8 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
