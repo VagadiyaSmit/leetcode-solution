@@ -1,3 +1,44 @@
+# LeetCode Solutions in C++
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+
+</div>
+
+## 📌 Overview
+
+This repository contains my accepted LeetCode solutions implemented in **C++**. I regularly solve coding problems to strengthen my understanding of **Data Structures and Algorithms (DSA)**, improve problem-solving skills, and prepare for coding interviews and technical placements.
+
+## 🚀 Technologies Used
+
+- C++
+- LeetCode
+- Git & GitHub
+- LeetHub
+- Visual Studio Code
+
+## 🎯 Goals
+
+- Solve LeetCode problems consistently
+- Improve DSA knowledge
+- Learn optimized algorithms
+- Prepare for coding interviews
+- Build a strong GitHub portfolio
+
+## 📈 Progress
+
+- ✅ Daily LeetCode practice
+- ✅ Accepted solutions
+- ✅ Auto-upload using LeetHub
+- ✅ Continuous learning
+
+---
+
+# LeetCode Topics
+
 # leetcode-solution
 my LeetCode Solutions in c++.
 
