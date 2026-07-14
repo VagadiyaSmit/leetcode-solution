@@ -55,6 +55,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
