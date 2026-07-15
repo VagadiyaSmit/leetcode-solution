@@ -48,6 +48,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ my LeetCode Solutions in c++.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 ## Linked List
