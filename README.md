@@ -51,6 +51,7 @@ my LeetCode Solutions in c++.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -65,6 +66,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
