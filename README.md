@@ -62,6 +62,7 @@ my LeetCode Solutions in c++.
 | [0001-two-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -76,12 +77,14 @@ my LeetCode Solutions in c++.
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
