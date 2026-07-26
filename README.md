@@ -122,4 +122,8 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
