@@ -55,6 +55,7 @@ my LeetCode Solutions in c++.
 | [0039-combination-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -101,6 +102,7 @@ my LeetCode Solutions in c++.
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 ## Backtracking
 |  |
@@ -127,4 +129,8 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0007-reverse-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0009-palindrome-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
