@@ -86,6 +86,7 @@ my LeetCode Solutions in c++.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -98,6 +99,7 @@ my LeetCode Solutions in c++.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@ my LeetCode Solutions in c++.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0009-palindrome-number) |
 ## Heap (Priority Queue)
