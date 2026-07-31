@@ -84,6 +84,7 @@ my LeetCode Solutions in c++.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +100,7 @@ my LeetCode Solutions in c++.
 | [0138-copy-list-with-random-pointer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
@@ -110,6 +112,7 @@ my LeetCode Solutions in c++.
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -148,4 +151,12 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
