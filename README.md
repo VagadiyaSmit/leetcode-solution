@@ -48,6 +48,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -77,6 +78,7 @@ my LeetCode Solutions in c++.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
@@ -174,4 +176,8 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
