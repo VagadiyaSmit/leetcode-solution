@@ -147,6 +147,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -204,4 +205,12 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
