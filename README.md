@@ -168,6 +168,7 @@ my LeetCode Solutions in c++.
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
@@ -192,6 +193,7 @@ my LeetCode Solutions in c++.
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
@@ -199,6 +201,7 @@ my LeetCode Solutions in c++.
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -208,11 +211,13 @@ my LeetCode Solutions in c++.
 | ------- |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,4 +251,12 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1095-find-in-mountain-array) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
