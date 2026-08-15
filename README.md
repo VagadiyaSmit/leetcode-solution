@@ -54,6 +54,7 @@ my LeetCode Solutions in c++.
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
@@ -173,6 +174,7 @@ my LeetCode Solutions in c++.
 | [0002-add-two-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
