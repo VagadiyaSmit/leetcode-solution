@@ -65,6 +65,7 @@ my LeetCode Solutions in c++.
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -182,6 +183,7 @@ my LeetCode Solutions in c++.
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
@@ -209,6 +211,7 @@ my LeetCode Solutions in c++.
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
 ## Game Theory
 |  |
 | ------- |
@@ -217,6 +220,7 @@ my LeetCode Solutions in c++.
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
