@@ -63,6 +63,7 @@ my LeetCode Solutions in c++.
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1095-find-in-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
@@ -81,6 +82,7 @@ my LeetCode Solutions in c++.
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -228,6 +230,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -249,6 +252,7 @@ my LeetCode Solutions in c++.
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 ## Breadth-First Search
 |  |
 | ------- |
