@@ -157,6 +157,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0039-combination-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0089-gray-code) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ my LeetCode Solutions in c++.
 | [0009-palindrome-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -258,6 +260,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0089-gray-code) |
 | [1009-complement-of-base-10-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
