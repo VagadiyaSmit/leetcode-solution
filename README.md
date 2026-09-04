@@ -78,6 +78,7 @@ my LeetCode Solutions in c++.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -295,6 +296,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
+| [3903-smallest-stable-index-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Interactive
 |  |
 | ------- |
