@@ -171,6 +171,7 @@ my LeetCode Solutions in c++.
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -228,6 +229,7 @@ my LeetCode Solutions in c++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
