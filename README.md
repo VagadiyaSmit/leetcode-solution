@@ -76,6 +76,7 @@ my LeetCode Solutions in c++.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
@@ -93,6 +94,7 @@ my LeetCode Solutions in c++.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@ my LeetCode Solutions in c++.
 | [0025-reverse-nodes-in-k-group](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +296,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
