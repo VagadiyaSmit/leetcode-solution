@@ -191,6 +191,7 @@ my LeetCode Solutions in c++.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
@@ -292,6 +293,7 @@ my LeetCode Solutions in c++.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -356,4 +358,12 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0835-image-overlap) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
