@@ -60,6 +60,7 @@ my LeetCode Solutions in c++.
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
@@ -92,6 +93,7 @@ my LeetCode Solutions in c++.
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -316,6 +318,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -375,4 +378,8 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
