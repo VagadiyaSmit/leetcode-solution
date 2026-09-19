@@ -319,6 +319,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
@@ -387,4 +388,8 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
