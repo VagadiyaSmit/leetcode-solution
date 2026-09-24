@@ -84,6 +84,7 @@ my LeetCode Solutions in c++.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
@@ -228,6 +229,7 @@ my LeetCode Solutions in c++.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3871-count-commas-in-range-ii) |
