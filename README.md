@@ -54,6 +54,7 @@ my LeetCode Solutions in c++.
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -124,6 +125,7 @@ my LeetCode Solutions in c++.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -254,6 +256,7 @@ my LeetCode Solutions in c++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
@@ -326,6 +329,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0155-min-stack) |
@@ -394,6 +398,7 @@ my LeetCode Solutions in c++.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0503-next-greater-element-ii) |
