@@ -75,6 +75,7 @@ my LeetCode Solutions in c++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -101,6 +102,7 @@ my LeetCode Solutions in c++.
 | [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -192,6 +194,7 @@ my LeetCode Solutions in c++.
 | [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0940-distinct-subsequences-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
