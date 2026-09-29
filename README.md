@@ -78,6 +78,7 @@ my LeetCode Solutions in c++.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -272,6 +273,7 @@ my LeetCode Solutions in c++.
 | [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Game Theory
@@ -378,6 +380,7 @@ my LeetCode Solutions in c++.
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
@@ -396,6 +399,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |
