@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool hasValidPath(vector<vector<char>>& grid) {
+    bool hasValidPath(vector<vector<char>>& grid) {   //T.C = O(nm) S.C = O(n)
         int m = grid.size(), n = grid[0].size();
         if ((m + n - 1) & 1) 
             return false;       // if Path length is m+n-1; an odd length can never be balanced.
