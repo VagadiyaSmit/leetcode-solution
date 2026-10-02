@@ -183,6 +183,7 @@ my LeetCode Solutions in c++.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0089-gray-code) |
@@ -190,6 +191,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
@@ -263,6 +265,7 @@ my LeetCode Solutions in c++.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
@@ -380,6 +383,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
