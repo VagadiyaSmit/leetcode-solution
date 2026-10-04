@@ -53,6 +53,7 @@ my LeetCode Solutions in c++.
 | [0027-remove-element](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0066-plus-one) |
@@ -115,6 +116,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
