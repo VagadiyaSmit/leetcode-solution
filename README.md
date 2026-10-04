@@ -199,6 +199,7 @@ my LeetCode Solutions in c++.
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -273,6 +274,7 @@ my LeetCode Solutions in c++.
 | [0042-trapping-rain-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -299,6 +301,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0011-container-with-most-water](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -351,6 +354,7 @@ my LeetCode Solutions in c++.
 | [0155-min-stack](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -390,6 +394,7 @@ my LeetCode Solutions in c++.
 | [0020-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
