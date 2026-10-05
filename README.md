@@ -60,6 +60,7 @@ my LeetCode Solutions in c++.
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
@@ -135,6 +136,7 @@ my LeetCode Solutions in c++.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0143-reorder-list) |
@@ -173,6 +175,7 @@ my LeetCode Solutions in c++.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
