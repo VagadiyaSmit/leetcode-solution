@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> plusOne(vector<int>& digits) {
+    vector<int> plusOne(vector<int>& digits) {     // T.C = O(n)  S.C = O(1) 
         int i = digits.size()-1;
 
         while(i >= 0){
