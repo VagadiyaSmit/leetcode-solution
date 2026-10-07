@@ -193,6 +193,7 @@ my LeetCode Solutions in c++.
 | [0039-combination-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 ## String
 |  |
 | ------- |
@@ -203,6 +204,7 @@ my LeetCode Solutions in c++.
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -340,6 +342,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
