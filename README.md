@@ -64,6 +64,7 @@ my LeetCode Solutions in c++.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0503-next-greater-element-ii) |
@@ -142,6 +143,7 @@ my LeetCode Solutions in c++.
 | [0142-linked-list-cycle-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
