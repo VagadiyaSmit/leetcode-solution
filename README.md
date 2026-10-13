@@ -95,6 +95,7 @@ my LeetCode Solutions in c++.
 | [3483-unique-3-digit-even-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
@@ -194,6 +195,7 @@ my LeetCode Solutions in c++.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -329,6 +331,7 @@ my LeetCode Solutions in c++.
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
