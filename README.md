@@ -79,6 +79,7 @@ my LeetCode Solutions in c++.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
@@ -267,6 +268,7 @@ my LeetCode Solutions in c++.
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -292,6 +294,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -313,6 +316,7 @@ my LeetCode Solutions in c++.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -454,6 +458,7 @@ my LeetCode Solutions in c++.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -469,10 +474,12 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -502,4 +509,20 @@ my LeetCode Solutions in c++.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
