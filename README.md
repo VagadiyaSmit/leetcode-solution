@@ -105,6 +105,7 @@ my LeetCode Solutions in c++.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -209,6 +210,7 @@ my LeetCode Solutions in c++.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -289,6 +291,7 @@ my LeetCode Solutions in c++.
 | [3870-count-commas-in-range](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -397,6 +400,7 @@ my LeetCode Solutions in c++.
 | [3345-smallest-divisible-digit-product-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
