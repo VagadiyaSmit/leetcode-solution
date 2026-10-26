@@ -84,6 +84,7 @@ my LeetCode Solutions in c++.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -140,6 +141,7 @@ my LeetCode Solutions in c++.
 | [0852-peak-index-in-a-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -202,6 +204,7 @@ my LeetCode Solutions in c++.
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
