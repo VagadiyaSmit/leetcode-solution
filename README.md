@@ -243,6 +243,7 @@ my LeetCode Solutions in c++.
 | [3498-reverse-degree-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
 | ------- |
