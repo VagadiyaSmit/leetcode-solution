@@ -99,6 +99,7 @@ my LeetCode Solutions in c++.
 | [3524-find-x-value-of-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -248,6 +249,7 @@ my LeetCode Solutions in c++.
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -374,6 +376,7 @@ my LeetCode Solutions in c++.
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -470,6 +473,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0835-image-overlap](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -513,6 +517,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
