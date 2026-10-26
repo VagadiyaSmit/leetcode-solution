@@ -74,6 +74,7 @@ my LeetCode Solutions in c++.
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1095-find-in-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -248,6 +249,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1254-number-of-closed-islands](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
@@ -375,6 +377,7 @@ my LeetCode Solutions in c++.
 | ------- |
 | [0100-same-tree](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -472,6 +475,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
@@ -516,6 +520,7 @@ my LeetCode Solutions in c++.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
