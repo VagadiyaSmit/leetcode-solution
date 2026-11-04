@@ -65,6 +65,7 @@ my LeetCode Solutions in c++.
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0503-next-greater-element-ii) |
@@ -205,6 +206,7 @@ my LeetCode Solutions in c++.
 | [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -276,6 +278,7 @@ my LeetCode Solutions in c++.
 | [0066-plus-one](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0089-gray-code) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
