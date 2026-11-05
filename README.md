@@ -76,6 +76,7 @@ my LeetCode Solutions in c++.
 | [1095-find-in-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -144,6 +145,7 @@ my LeetCode Solutions in c++.
 | [0704-binary-search](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -168,6 +170,7 @@ my LeetCode Solutions in c++.
 | [0143-reorder-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
@@ -208,6 +211,7 @@ my LeetCode Solutions in c++.
 | [0179-largest-number](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2333-minimum-sum-of-squared-difference) |
