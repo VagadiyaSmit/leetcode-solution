@@ -283,6 +283,7 @@ my LeetCode Solutions in c++.
 | [0066-plus-one](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0089-gray-code) |
+| [0258-add-digits](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0877-stone-game) |
@@ -487,6 +488,7 @@ my LeetCode Solutions in c++.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
@@ -497,6 +499,7 @@ my LeetCode Solutions in c++.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
