@@ -85,6 +85,7 @@ my LeetCode Solutions in c++.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -127,6 +128,7 @@ my LeetCode Solutions in c++.
 | [1386-cinema-seat-allocation](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2784-check-if-array-is-good](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -315,6 +317,7 @@ my LeetCode Solutions in c++.
 ## Counting Sort
 |  |
 | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VagadiyaSmit/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
